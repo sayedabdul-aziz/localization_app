@@ -1,0 +1,9 @@
+{
+    "welcome_msg" : "Welcome to my app",
+    "home":"Home",
+    "settings":"Settings",
+    "language":"Language",
+    "english":"English",
+    "arabic":"Arabic"
+
+}
